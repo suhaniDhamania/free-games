@@ -14,7 +14,7 @@ function Navbar() {
           </span>
         </h1>
         <a
-          href="https://github.com/A-JA-Y/free-games"
+          href="https://github.com/suhaniDhamania/free-games"
           target="_blank"
           rel="noreferrer"
           className="github-link"
